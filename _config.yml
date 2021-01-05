@@ -6,7 +6,7 @@
 name: 1g84
 
 # Short bio or description (displayed in the header)
-description: 医学生
+description: student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:mzj97@foxmail.com
+  email: mzj97@foxmail.com
   facebook:
   flickr:
   github: github.com/1g84
